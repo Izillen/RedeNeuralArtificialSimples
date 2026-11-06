@@ -56,13 +56,13 @@ O projeto gera dados sintéticos seguindo uma função linear com ruído aleató
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
+git clone https://github.com/Izillen/RedeNeuralArtificialSimples.git
 ```
 
 ### 2. Acesse a pasta do projeto
 
 ```bash
-cd SEU-REPOSITORIO
+cd RedeNeuralArtificialSimples
 ```
 
 ### 3. Instale as dependências
