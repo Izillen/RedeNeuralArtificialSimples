@@ -81,7 +81,4 @@ python main.py
 
 Projeto desenvolvido com finalidade acadêmica e de estudo, buscando compreender na prática como ocorre o aprendizado de um modelo de Machine Learning, desde a inicialização dos parâmetros até a otimização por Gradient Descent.
 
-## 👩‍💻 Autora
-
-Desenvolvido por **Ellen Beatriz**.
 
